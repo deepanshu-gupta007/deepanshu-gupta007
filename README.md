@@ -103,8 +103,7 @@
 ## ⚡ Fun Facts  
 
 - 🌱 Currently learning: **Advanced Computer Vision**  
-- 🎵 Love coding with **music**  
-- ⚽ Football enthusiast & anime fan  
+- 🎵 Love coding with **music**   
 - ✨ Always curious about **emerging AI research**  
 
 ---
